@@ -3,7 +3,7 @@
 M.Sc. Big Data & Business Analytics student at FOM Essen, Germany, with professional experience as a Junior Data Analyst, where I built 5+ Power BI dashboards and cut manual reporting time by about 30%. I'm looking for a working student (Werkstudent) role in data analytics or BI.
 
 🔧 **Tools I work with**
-SQL · Python (pandas, NumPy) · Power BI (DAX, Power Query) · Tableau · Looker Studio · Excel · Power Automate · Git
+SQL · Python (pandas, NumPy) · Power BI (DAX, Power Query) · Tableau · Looker Studio · Excel · Power Automate · n8n · Google Gemini API · Git
 
 📌 **Featured projects**
 
